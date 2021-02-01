@@ -50,8 +50,6 @@ fecha = //
 
 
 
-
-
 }",
 
 Bloque vacío de 3 secciones.
@@ -67,8 +65,6 @@ fecha = //
 
 
 
-
-
 }"
 
 Dejando espacio para los datos (que van cada uno en un renglón sin espacio entre
@@ -76,8 +72,6 @@ ellos), el cuerpo del texto, y para los subbloques se dejan 3 renglones en vez
 de 1.
 
 ]
-
-
 
 
 
